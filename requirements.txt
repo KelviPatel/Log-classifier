@@ -1,0 +1,4 @@
+google-generativeai
+sklearn
+joblib
+pandas

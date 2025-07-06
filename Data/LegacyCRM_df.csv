@@ -1,0 +1,8 @@
+,timestamp,source,log_message,target_label,complexity,clusters
+60,2025-10-06 16:55:23,LegacyCRM,Lead conversion failed for prospect ID 7842 due to missing contact information.,Workflow Error,llm,
+255,2025-05-03 16:55:35,LegacyCRM,API endpoint 'getCustomerDetails' is deprecated and will be removed in version 3.2. Use 'fetchCustomerInfo' instead.,Deprecation Warning,llm,
+377,2025-06-24 12:16:29,LegacyCRM,Customer follow-up process for lead ID 5621 failed due to missing next action,Workflow Error,llm,
+1325,2025-04-17 07:33:44,LegacyCRM,Escalation rule execution failed for ticket ID 9807 - undefined escalation level.,Workflow Error,llm,
+1734,2025-04-30 07:47:30,LegacyCRM,The 'ExportToCSV' feature is outdated. Please migrate to 'ExportToXLSX' by the end of Q3.,Deprecation Warning,llm,
+1826,2025-01-23 10:33:36,LegacyCRM,Support for legacy authentication methods will be discontinued after 2025-06-01.,Deprecation Warning,llm,
+2217,2025-05-12 09:46:54,LegacyCRM,Task assignment for TeamID 3425 could not complete due to invalid priority level.,Workflow Error,llm,
